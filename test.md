@@ -1,7 +1,7 @@
 ---
 layout: page
-title: test.md
-subtitle: this is a test
+title: truth
+subtitle: words i live by
 ---
 Harry Styles is daddy.
 
