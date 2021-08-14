@@ -1,16 +1,12 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Me
+subtitle: A brief description of me and my interests
 ---
 
-My name is Shivani Kharva. I have the following qualities:
+My name is Shivani Kharva. I grew up in Anaheim, California, but I'd love to see more of the world. I've always had an interest in mathematics and the more technical side of the world, so my interest in web design and computer programming was not shocking to me.
 
-- I'm a cutie
-- I'm also a smartie
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://www.youtube.com/watch?v=dQw4w9WgXcQ) and it will answer **all** your questions.
+Some fun facts about me:
+* I love reading, writing, baking, and spending time with my friends and family.
+* My family has a german shepherd named Sheru. His name means lion in Hindi because his fur looks like a lion.
+* My love of learning new skills and concepts is what keeps me motivated.
