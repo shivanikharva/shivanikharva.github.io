@@ -216,6 +216,7 @@ defaults:
 exclude:
   - CHANGELOG.md
   - CNAME
+  - _config.yml
   - Gemfile
   - Gemfile.lock
   - LICENSE
