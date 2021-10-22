@@ -223,6 +223,10 @@ exclude:
   - screenshot.png
   - docs/
 
+---
+layout: page
+title: Shivani Kharva
+---
 Education
 University of California, Santa Barbara
 August 2020 - Present
