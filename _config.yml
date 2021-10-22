@@ -223,11 +223,6 @@ exclude:
   - screenshot.png
   - docs/
 
-Education
-University of California, Santa Barbara
-August 2020 - Present
-BS, Statistics and Data Science
-
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
