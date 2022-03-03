@@ -2,7 +2,9 @@
 layout: page
 title: Coding Samples
 ---
-[C++ Coding Samples](https://github.com/shivanikharva/C-Plus-Plus-Code)
+C++ Coding Samples
+
+[Tic-Tac-Toe](https://github.com/shivanikharva/C-Plus-Plus-Code/blob/main/tictactoe)
 
 Python Samples
 
