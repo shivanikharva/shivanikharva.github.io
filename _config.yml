@@ -13,8 +13,8 @@ author: Shivani Kharva
 
 # --- List of links in the navigation bar --- #
 navbar-links:
-About Me: "/"
-Coding Samples: "codingsamples/"
+  About Me: "/"
+  Coding Samples: "codingsamples/"
 # Test: "test/"
 
 # --- Logo --- #
