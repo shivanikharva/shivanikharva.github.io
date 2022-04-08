@@ -12,12 +12,9 @@ title: Shivani Kharva
 author: Shivani Kharva
 
 # --- List of links in the navigation bar --- #
-has_nav: true
-nav_links:
-  - label: About Me
-    url: /
-  - label: Coding Samples
-    url: /codingsamples
+navbar-links:
+About Me: "/"
+Coding Samples: "codingsamples/"
 # Test: "test/"
 
 # --- Logo --- #
