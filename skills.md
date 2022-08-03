@@ -12,7 +12,8 @@ title: Skills
 - Data Analysis in Spreadsheets (DataCamp certificate)  
 
 **R**  
-- PSTAT 10 (Principles of Data Science) and PSTAT 126 (Regression Analysis) at UCSB  
+- PSTAT 10 (Principles of Data Science)  
+- PSTAT 126 (Regression Analysis) at UCSB  
 
 **Tableau**  
 - Introduction to Tableau (Datacamp certificate)  
