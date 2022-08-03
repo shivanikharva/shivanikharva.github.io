@@ -9,14 +9,14 @@ title: Skills
 - CIS 5 (Programming Concepts and Methodology I: C++) at Norco College  
 
 **Excel**
-- Data Analysis in Spreadsheets (DataCamp certificate)  
+- Data Analysis in Spreadsheets (DataCamp)  
 
 **R**  
 - PSTAT 10 (Principles of Data Science) at UCSB  
 - PSTAT 126 (Regression Analysis) at UCSB  
 
 **Tableau**  
-- Introduction to Tableau (Datacamp certificate)  
+- Introduction to Tableau (Datacamp)  
 
 ## Intermediate  
 **Python**  
