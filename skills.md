@@ -15,6 +15,7 @@ title: Skills
 - PSTAT 10 (Principles of Data Science) and PSTAT 126 (Regression Analysis) at UCSB  
 
 **Tableau**  
+- Introduction to Tableau (Datacamp certificate)  
 
 ## Intermediate  
 **Python**  
