@@ -9,7 +9,7 @@ BS, Statistics and Data Science
 
 ## Experience  
 
-**Data Science UCSB** -  
+**Data Science UCSB**     
 *Chair of Directors*  
 June 2022 - Present  
 
