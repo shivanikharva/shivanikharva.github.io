@@ -4,7 +4,6 @@ title: Skills
 ---
 # Technical Skills  
 
-## Beginner
 **C++**  
 - CIS 5 (Programming Concepts and Methodology I: C++) at Norco College  
 
@@ -17,8 +16,7 @@ title: Skills
 
 **Tableau**  
 - DataCamp: Introduction to Tableau   
-
-## Intermediate  
+ 
 **Python**  
 - PSTAT 100 (Data Science Concepts and Analysis) at UCSB  
 
