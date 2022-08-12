@@ -22,5 +22,5 @@ title: Skills
 
 **SQL**  
 - PSTAT 10 (Principles of Data Science) at UCSB  
-- DataCamp: Introduction to SQL Server, Joining Data in SQL, Intermediate SQL Server
+- DataCamp: Introduction to SQL Server, Joining Data in SQL, Intermediate SQL Server, Time Series Analysis in SQL Server, Functions for Manipulating Data in SQL Server
 
