@@ -23,10 +23,10 @@ June 2021 - May 2022
 **HG Insights**  
 *Solutions Engineer Intern*  
 July 2022 - Present  
-- Completed 2-3 tickets per day providing insights to companies through data-as-a-service using SQL  
-- Communicated daily with customer success managers regarding customer insight reports  
-- Attended tri-weekly meetings with customer solutions team  
-- Contributed to transition from Platform v1.0 to v2.0 by communicating differences to engineering team  
+- Complete ~2-3 tickets per day providing insights to companies through data-as-a-service using SQL  
+- Communicate daily with customer success managers regarding customer insight reports  
+- Attend tri-weekly meetings with customer solutions team  
+- Contribute to transition from Platform v1.0 to v2.0 by communicating differences to engineering team  
 
 **UCSB Disabled Students Program (DSP)**  
 *Notetaker*  
