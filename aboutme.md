@@ -28,6 +28,11 @@ July 2022 - Present
 - Attended tri-weekly meetings with customer solutions team  
 - Contributed to transition from Platform v1.0 to v2.0 by communicating differences to engineering team  
 
+**UCSB Disabled Students Program (DSP)**  
+*Notetaker*  
+- Communicated weekly with students in DSP assigned to me to learn and adapt to their notetaking preferences  
+- Took structured notes during every lecture for three classes and uploaded notes to website for students to access  
+
 **AAA Tax Group**   
 *Technical Intern*    
 June 2021 - August 2021    
