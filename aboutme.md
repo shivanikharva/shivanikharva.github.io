@@ -30,6 +30,7 @@ July 2022 - Present
 
 **UCSB Disabled Students Program (DSP)**  
 *Notetaker*  
+January 2022 - March 2022  
 - Communicated weekly with students in DSP assigned to me to learn and adapt to their notetaking preferences  
 - Took structured notes during every lecture for three classes and uploaded notes to website for students to access  
 
