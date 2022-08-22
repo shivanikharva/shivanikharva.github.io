@@ -17,8 +17,8 @@ June 2022 - Present
 
 *Director of Marketing*  
 June 2021 - May 2022  
-- Create digital advertisements for club events and post to social media
-- Update website as needed through GitHub and Visual Studio Code (datascienceucsb.org)   
+- Created digital advertisements for club events and post to social media
+- Updated website as needed through GitHub and Visual Studio Code (datascienceucsb.org)   
 
 **HG Insights**  
 *Solutions Engineer Intern*  
@@ -38,7 +38,7 @@ January 2022 - March 2022
 *Technical Intern*    
 June 2021 - August 2021    
 - Developed company information website through web.com website builder (aaataxgroup.net)
-- Aid in filing SBA loan
+- Aided in filing SBA loan
 - Sorted and checked 23 client files for tax return completion post tax season over the course of 2 weeks
 
 **Kumon, North America**  
