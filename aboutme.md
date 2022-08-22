@@ -12,11 +12,21 @@ BS, Statistics and Data Science
 **Data Science UCSB**     
 *Chair of Directors*  
 June 2022 - Present  
+- Meet weekly with executive board and PSTAT department at UCSB to complete administrative work for each club operation (events, meetings, etc.)  
+- Manage communication between executive board and 8 directors  
 
 *Director of Marketing*  
 June 2021 - May 2022  
 - Create digital advertisements for club events and post to social media
-- Update website as needed through GitHub and Visual Studio Code (datascienceucsb.org)  
+- Update website as needed through GitHub and Visual Studio Code (datascienceucsb.org)   
+
+**HG Insights**  
+*Solutions Engineer Intern*  
+July 2022 - Present  
+- Completed 2-3 tickets per day providing insights to companies through data-as-a-service using SQL  
+- Communicated daily with customer success managers regarding customer insight reports  
+- Attended tri-weekly meetings with customer solutions team  
+- Contributed to transition from Platform v1.0 to v2.0 by communicating differences to engineering team  
 
 **AAA Tax Group**   
 *Technical Intern*    
