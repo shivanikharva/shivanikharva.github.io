@@ -2,7 +2,9 @@
 title: Shivani Kharva     
 layout: home
 ---
+<p align="center">
 # About Me
+ </p>
 
 ## Education    
 
