@@ -2,7 +2,7 @@
 title: Shivani Kharva     
 layout: home
 ---
-### About Me
+# About Me
 
 ## Education    
 
