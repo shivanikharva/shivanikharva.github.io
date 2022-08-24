@@ -32,5 +32,5 @@ sections:
         actions:
           - label: Skills
             url: /skills        
-layout: page
+layout: landing
 ---
