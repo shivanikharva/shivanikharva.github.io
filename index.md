@@ -1,9 +1,7 @@
 ---
-title: Shivani Kharva     
+title: About Me     
 layout: home
 ---
-# About Me
- 
 ## Education    
 
 **University of California, Santa Barbara**  
