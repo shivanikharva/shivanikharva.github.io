@@ -7,7 +7,7 @@ title: Skills
 **C++**  
 - CIS 5 (Programming Concepts and Methodology I: C++) at Norco College, Summer 2021  
 
-**Excel**
+**Excel/Spreadsheets**
 - DataCamp: Data Analysis in Spreadsheets  
 
 **R**  
@@ -15,7 +15,7 @@ title: Skills
 - PSTAT 126 (Regression Analysis) at UCSB, Spring 2022  
 
 **Tableau**  
-- DataCamp: Introduction to Tableau   
+- DataCamp: Introduction to Tableau, Analyzing Data in Tableau   
  
 **Python**  
 - PSTAT 100 (Data Science Concepts and Analysis) at UCSB, Spring 2022  
