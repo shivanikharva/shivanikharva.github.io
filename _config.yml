@@ -14,6 +14,7 @@ author: Shivani Kharva
 # --- List of links in the navigation bar --- #
 navbar-links:
   About Me: "/"
+  Resume: "resume/"
   Coding Samples: "codingsamples/"
   Skills: "skills/"
 # Test: "test/"
