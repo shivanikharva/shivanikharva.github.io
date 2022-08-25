@@ -3,8 +3,7 @@ title: About Me
 layout: home
 ---
 Hi! My name is Shivani Kharva and I am currently a 3rd year **Statistics and Data Science major at UCSB**. I am also part of the **Honor's Program** and have completed 
-the undergraduate portion of UCSB's **Technology Management Program**. As I continue my studies, I would like to learn more about machine learning and communicating data 
-to individuals who do not have a technical bakcground. I love math, baking, reading, art, playing video games, and going on nature walks.  
+the undergraduate portion of UCSB's **Technology Management Program**. As I continue my studies, I would like to learn more about how business and data interact as well as how to communicating data to individuals without a technical bakcground. I love math, baking, reading, art, playing video games, and going on nature walks.  
 
 In the past couple of years at UCSB, my main extracurricular has been the **Data Science Club**. Currently, I act as the **Chair of Directors**, which allows me to 
 work with executive board in collaborating with the PSTAT Department at UCSB about major club events (Fall Career Fair, Project Showcase, etc.) while also acting as a 
