@@ -1,5 +1,5 @@
 ---
-title: Resume
+title: Experience
 layout: page
 ---
 ## Education    
@@ -8,7 +8,7 @@ layout: page
 October 2020 - Present      
 BS, Statistics and Data Science  
 
-## Experience  
+## Work Experience  
 
 **Data Science UCSB**     
 *Chair of Directors*  
