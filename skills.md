@@ -21,7 +21,7 @@ title: Skills
 - PSTAT 100 (Data Science Concepts and Analysis) at UCSB, Spring 2022 - *Jupyter Notebook*   
 
 **SQL**  
-- Solutions Engineer Intern at HG Insights, Summer 2022 - Microsoft SQL Server   
+- Solutions Engineer Intern at HG Insights, Summer 2022 - *Microsoft SQL Server*   
 - PSTAT 10 (Principles of Data Science) at UCSB, Spring 2021 - *RStudio*    
 - DataCamp: Introduction to SQL Server, Joining Data in SQL, Intermediate SQL Server, Time Series Analysis in SQL Server, Functions for Manipulating Data in SQL Server   
 
