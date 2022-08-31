@@ -23,4 +23,4 @@ title: Skills
 - DataCamp: Data Analysis in Spreadsheets  
 
 **C++**  
-- CIS 5 (Programming Concepts and Methodology I: C++) at Norco College, Summer 2021 - *Visual Studio Code*   
+- CIS 5 (Programming Concepts and Methodology I: C++) at Norco College, Summer 2021 - *Microsoft Visual Studio C++*   
