@@ -15,7 +15,7 @@ title: Skills
 - PSTAT 126 (Regression Analysis) at UCSB, Spring 2022  
 
 **Tableau**  
-- DataCamp: Introduction to Tableau, Analyzing Data in Tableau   
+- DataCamp: Introduction to Tableau, Analyzing Data in Tableau, Creating Dashboards in Tableau   
  
 **Python**  
 - PSTAT 100 (Data Science Concepts and Analysis) at UCSB, Spring 2022  
