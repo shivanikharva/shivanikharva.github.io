@@ -23,5 +23,5 @@ title: Skills
 **SQL**  
 - PSTAT 10 (Principles of Data Science) at UCSB, Spring 2021  
 - DataCamp: Introduction to SQL Server, Joining Data in SQL, Intermediate SQL Server, Time Series Analysis in SQL Server, Functions for Manipulating Data in SQL Server
-- Solutions Engineer Intern at HG Insights: Microsoft SQL Server
+- Solutions Engineer Intern at HG Insights (Microsoft SQL Server), Summer 2022
 
