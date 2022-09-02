@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Coding Samples
+title: Projects
 ---
 
 ### Python    
