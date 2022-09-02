@@ -2,7 +2,7 @@
 layout: page
 title: Skills
 ---
-# Technical Skills  
+## Technical Skills  
 
 **SQL**  
 - Solutions Engineer Intern at HG Insights, Summer 2022 - *Microsoft SQL Server*   
