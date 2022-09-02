@@ -1,7 +1,7 @@
 ---
 layout: page
 title: For Fun
-subtitle: Just a couple of little fun things I felt like including!!
+subtitle: Just a couple silly things I felt like including :P
 ---
 ## Internship Application Sankey Diagram
 ![](/images/intern_sankey.png)  
