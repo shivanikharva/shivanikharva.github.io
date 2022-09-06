@@ -20,7 +20,7 @@ title: Skills
 - DataCamp: Introduction to Tableau, Analyzing Data in Tableau, Creating Dashboards in Tableau    
  
 **Excel/Spreadsheets**
-- DataCamp: Data Analysis in Spreadsheets  
+- DataCamp: Data Analysis in Spreadsheets, Pivot Tables in Spreadsheets    
 
 **C++**  
 - CIS 5 (Programming Concepts and Methodology I: C++) at Norco College, Summer 2021 - *Microsoft Visual Studio C++*   
