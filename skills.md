@@ -23,7 +23,7 @@ title: Skills
 - DataCamp: Data Analysis in Spreadsheets, Pivot Tables in Spreadsheets    
 
 **Power BI**
-- DataCamp: Introduction to Power BI
+- DataCamp: Introduction to Power BI, Introduction to DAX in Power BI
 
 **C++**  
 - CIS 5 (Programming Concepts and Methodology I: C++) at Norco College, Summer 2021 - *Microsoft Visual Studio C++*   
