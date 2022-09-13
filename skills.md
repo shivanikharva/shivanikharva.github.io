@@ -11,7 +11,7 @@ title: Skills
 
 **Python**  
 - PSTAT 100 (Data Science Concepts and Analysis) at UCSB, Spring 2022 - *Jupyter Notebook*   
-- DataCamp: Introduction to Python  
+- DataCamp: Introduction to Python, Intermediate Python    
 
 **R**  
 - PSTAT 10 (Principles of Data Science) at UCSB, Spring 2021 - *RStudio*  
