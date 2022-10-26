@@ -10,4 +10,4 @@ Furthermore, in Sumer 2022, I took on a role as a **Solutions Engineer Intern** 
 
 I hope you enjoy exploring this website and getting to know me a little more!
 
-###### Updated: August 25, 2022
+###### Updated: October 26, 2022
