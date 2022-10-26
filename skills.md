@@ -15,7 +15,8 @@ title: Skills
 
 **R**  
 - PSTAT 10 (Principles of Data Science) at UCSB, Spring 2021 - *RStudio*  
-- PSTAT 126 (Regression Analysis) at UCSB, Spring 2022 - *RStudio*   
+- PSTAT 126 (Regression Analysis) at UCSB, Spring 2022 - *RStudio*  
+- PSTAT 131 (Introduction to Statistical Machine Learning) at UCSB, Fall 2022 - *RStudio*  
 - DataCamp: Introduction to R, Intermediate R     
 
 **Tableau**  
