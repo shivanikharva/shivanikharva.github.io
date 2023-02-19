@@ -3,6 +3,10 @@ layout: page
 title: Projects
 ---
 
+## R  
+[Predicting Pokemon Capture Rates](https://github.com/shivanikharva/PSTAT131-Final-Project)  
+- Tested and developed regression-based machine learning models (random forest, k nearest neighbors, etc.) in an attempt to accurately predict the capture rate of a Pokemon  
+
 ## Python    
 [Vaccine Efficacy in California](https://deepnote.com/workspace/pstat-100-course-project-06a57dc5-3fdf-4146-a1bb-ef02b8091492/project/PSTAT-100-Final-Report-03b916f0-6b5e-4d99-9ed1-a0b7d32e15e6/%2Fproject-final-report.ipynb)  
 - In a group, explored the effectiveness of vaccination status on Covid-19 cases and deaths in California using Python with an emphasis on the most recent booster shot advancement  
