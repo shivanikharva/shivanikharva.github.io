@@ -2,8 +2,7 @@
 layout: page
 title: Skills
 ---
-## Technical Skills  
-
+  
 **SQL**  
 - Solutions Engineer Intern at HG Insights, Summer 2022 - *Microsoft SQL Server*   
 - PSTAT 10 (Principles of Data Science) at UCSB, Spring 2021 - *RStudio*    
