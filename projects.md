@@ -8,7 +8,7 @@ title: Projects
 - Tested and developed regression-based machine learning models (random forest, k nearest neighbors, etc.) in an attempt to accurately predict the capture rate of a Pokemon    
 
 ## Pyspark  
-[Predicting Voter Turnout in Arizona and Utah]()  
+[Predicting Voter Turnout in Arizona and Utah](https://github.com/shivanikharva/voter-turnout/blob/main/FinalProject.ipynb)  
 - Built and tested regression-based machine learning models (linear regression, random forest, gradient boosted tree) to accurately predict presidential election voter turnout percentages by county in Arizona and Utah  
 
 ## Python    
