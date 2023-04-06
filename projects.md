@@ -6,6 +6,8 @@ title: Projects
 ## R  
 [Predicting Pokemon Capture Rates](https://github.com/shivanikharva/PSTAT131-Final-Project)  
 - Tested and developed regression-based machine learning models (random forest, k nearest neighbors, etc.) in an attempt to accurately predict the capture rate of a Pokemon    
+*How to access*:  
+Clink on link --> Click on green "Code" button --> Click "Download ZIP" --> Unzip file --> Open the HTML version of the project in a web browser  
 
 ## Pyspark  
 [Predicting Voter Turnout in Arizona and Utah](https://github.com/shivanikharva/voter-turnout/blob/main/FinalProject.ipynb)  
