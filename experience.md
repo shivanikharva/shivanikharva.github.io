@@ -5,14 +5,21 @@ layout: page
 ## Education    
 
 **University of California, Santa Barbara**  
-October 2020 - Present      
+October 2020 - June 2023       
 BS, Statistics and Data Science  
 
-## Work Experience  
+## Work Experience   
+
+**PricewaterhouseCoopers LLP**  
+*Cybersecurity, Risk, and Regulatory - Data Risk and Privacy Intern*  
+June 2023 - August 2023  
+- Traced 19 attributes of client data back to 3 SQL -generated Snowflake databases in Alation and created data lineage diagram for single attribute to present to client  
+- Spearheaded question generation for 5 client interviews regarding data lineage  
+- Drafted project plan for 2 phases of client project spanning 13 weeks  
 
 **Data Science UCSB**     
 *Chair of Directors*  
-June 2022 - Present  
+June 2022 - June 2023   
 - Meet weekly with executive board and PSTAT department at UCSB to complete administrative work for each club operation (events, meetings, etc.)  
 - Manage communication between executive board and 8 directors  
 
@@ -23,7 +30,7 @@ June 2021 - May 2022
 
 **HG Insights**  
 *Solutions Engineer Intern*  
-July 2022 - Present  
+July 2022 - September 2022  
 - Complete ~2-3 tickets per day providing insights to companies through data-as-a-service using Microsoft SQL Server  
 - Communicate daily with customer success managers regarding customer insight reports  
 - Attend tri-weekly meetings with customer solutions team  
