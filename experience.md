@@ -51,7 +51,7 @@ June 2021 - August 2021
 
 **Kumon, North America**  
 *Instructor’s Assistant*     
-March 2018 - October 2019  
+February 2018 - October 2019  
 - Aided single student decrease time to complete assignments from ~45 minutes to ~10 minutes and increased same students average accuracy from ~50% to ~90% per page of work
 - Tutored students K-12 in mathematics and reading
 - Entered completion data of about 50 students, per week, into assignment database to track progress
