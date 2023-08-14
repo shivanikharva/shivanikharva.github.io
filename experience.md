@@ -8,7 +8,7 @@ layout: page
 October 2020 - June 2023       
 BS, Statistics and Data Science  
 
-## Work Experience   
+## All Experience   
 
 **PricewaterhouseCoopers LLP**  
 *Cybersecurity, Risk, and Regulatory - Data Risk and Privacy Intern*  
