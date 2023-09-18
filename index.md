@@ -8,7 +8,7 @@ Most recently, I was a **Cybersecurity, Risk, and Regulatory - Data Risk and Pri
 
 During my 3 years at UCSB, my main extracurricular was the **Data Science Club**. While I was a student, I acted as the **Chair of Directors**, which allowed me to work with executive board in hosting major club events (Fall Career Fair, Project Showcase, etc.) while also acting as a communication point between the executive board and the rest of the directors. Also, I helped maintain the club website, which can be found [here](https://www.datascienceucsb.org/).   
 
-Furthermore, in Summer 2022, I took on a role as a **Solutions Engineer Intern** at **HG Insights**. My daily tasks would revolve around completing Data-as-a-Service requests using Microsoft SQL Server and communicating with Customer Succuess Managers to ensure that customer deliverables were up to company standard. Furthermore, I also took part in the transition from HG Insight's product, Platform v1.0, to their new Platform v2.0 by communicating discrepancies between the two user interfaces.
+Furthermore, in Summer 2022, I took on a role as a **Solutions Engineer Intern** at **HG Insights**. My daily tasks would revolve around completing Data-as-a-Service requests using Microsoft SQL Server and communicating with Customer Succuess Managers to ensure that customer deliverables were up to company standard. I also took part in the transition from HG Insight's product, Platform v1.0, to their new Platform v2.0 by communicating discrepancies between the two user interfaces.
 
 I hope you enjoy exploring this website and getting to know me a little more!
 
