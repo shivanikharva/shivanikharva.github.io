@@ -17,6 +17,18 @@ June 2023 - August 2023
 - Spearheaded question generation for 5 client interviews regarding data lineage  
 - Drafted project plan for 2 phases of client project spanning 13 weeks  
 
+**University of California, Santa Barbara**  
+*Undergraduate Learning Assistant*  
+September 2022 - June 2023  
+- Provided small group support and tutoring to students for 10 hours per week, clarifying concepts and addressing questions related to Probability and Statistics series  
+- Developed and implemented supplemental exam study material to reinforce 9 course topics
+  
+*Undergraduate Research Assistant*
+November 2022 - June 2023
+- Worked in close group of 4 people (2 undergraduates, 1 PhD candidate, 1 professor) to study statistical machine learning models and their applications
+- Provided key insights into RobustGaSP model progression in terms of predicting the eruptive capabilities of volcanoes
+- Utilized R to examine apparent missing data and brainstormed possible sources and solutions in terms of sampling and overall calculations of model assumptions and parameters
+
 **Data Science UCSB**     
 *Chair of Directors*  
 June 2022 - June 2023   
