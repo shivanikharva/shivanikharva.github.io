@@ -23,7 +23,7 @@ September 2022 - June 2023
 - Provided small group support and tutoring to students for 10 hours per week, clarifying concepts and addressing questions related to Probability and Statistics series  
 - Developed and implemented supplemental exam study material to reinforce 9 course topics
   
-*Undergraduate Research Assistant*
+*Undergraduate Research Assistant*  
 November 2022 - June 2023
 - Worked in close group of 4 people (2 undergraduates, 1 PhD candidate, 1 professor) to study statistical machine learning models and their applications
 - Provided key insights into RobustGaSP model progression in terms of predicting the eruptive capabilities of volcanoes
