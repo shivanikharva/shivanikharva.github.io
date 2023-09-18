@@ -12,4 +12,4 @@ Furthermore, in Summer 2022, I took on a role as a **Solutions Engineer Intern**
 
 I hope you enjoy exploring this website and getting to know me a little more!
 
-###### Updated: August 07, 2023
+###### Updated: September 18, 2023
