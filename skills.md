@@ -13,6 +13,7 @@ title: Skills
 - DataCamp: Introduction to Python, Intermediate Python    
 
 **R**  
+- Undergraduate Research Assistant at UCSB, Fall 2022 to Spring 2023 - *RStudio*  
 - PSTAT 10 (Principles of Data Science) at UCSB, Spring 2021 - *RStudio*  
 - PSTAT 126 (Regression Analysis) at UCSB, Spring 2022 - *RStudio*  
 - PSTAT 131 (Introduction to Statistical Machine Learning) at UCSB, Fall 2022 - *RStudio*  
@@ -22,8 +23,11 @@ title: Skills
 - PSTAT 135 (Big Data Analytics) at UCSB, Winter 2023 - *Jupyter Notebook*  
 - DataCamp: Cleaning Data with Pyspark, Feature Engineering with Pyspark  
 
+**SAS**
+- PSTAT 130 (SAS Base Programming) at UCSB, Spring 2023 - *SAS Studio*  
+
 **Google Cloud Platform**  
-- PSTAT 135 (Big Data Analytics) at UCSB, Winter 2023  
+- PSTAT 135 (Big Data Analytics) at UCSB, Winter 2023    
 
 **Tableau**  
 - DataCamp: Introduction to Tableau, Analyzing Data in Tableau, Creating Dashboards in Tableau    
