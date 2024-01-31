@@ -10,6 +10,4 @@ During my 3 years at UCSB, my main extracurricular was the **Data Science Club**
 
 Furthermore, in Summer 2022, I took on a role as a **Solutions Engineer Intern** at **HG Insights**. My daily tasks would revolve around completing Data-as-a-Service requests using Microsoft SQL Server and communicating with Customer Succuess Managers to ensure that customer deliverables were up to company standard. I also took part in the transition from HG Insight's product, Platform v1.0, to their new Platform v2.0 by communicating discrepancies between the two user interfaces.
 
-I hope you enjoy exploring this website and getting to know me a little more!
-
-###### Updated: September 18, 2023
+I hope you enjoy exploring this website and getting to know me a little more!  
