@@ -10,12 +10,18 @@ BS, Statistics and Data Science
 
 ## All Experience   
 
+**AAA Tax Group**  
+*Digital Solutions Developer*  
+August 2023 - December 2023  
+- Spearheaded the development of a company website on W3Schools, utilizing skills in HTML and CSS to ensure a seamless and visually striking user experience  
+- Managed and categorized 50 newly acquired client portfolios, streamlining processes and enhancing overall efficiency  
+
 **PricewaterhouseCoopers LLP**  
 *Cybersecurity, Risk, and Regulatory - Data Risk and Privacy Intern*  
 June 2023 - August 2023  
-- Traced 19 attributes of client data back to 3 SQL -generated Snowflake databases in Alation and created data lineage diagram for single attribute to present to client  
-- Spearheaded question generation for 5 client interviews regarding data lineage  
-- Drafted project plan for 2 phases of client project spanning 13 weeks  
+- Traced 19 attributes of client data back to SQL generated Snowflake databases in Alation and created a data lineage diagram for a single attribute to present to client  
+- Formulated strategic questions for client interviews, engaging key stakeholders including the engineer integrating client data and the data-sourcing engineer  
+- Crafted a strategic and detailed 13-week project plan that not only ensured successful execution, but also led to client approval for the continuation of the project  
 
 **University of California, Santa Barbara**  
 *Undergraduate Learning Assistant*  
@@ -26,7 +32,7 @@ September 2022 - June 2023
 *Undergraduate Research Assistant*  
 November 2022 - June 2023
 - Worked in close group of 4 people (2 undergraduates, 1 PhD candidate, 1 professor) to study statistical machine learning models and their applications
-- Provided key insights into RobustGaSP model progression in terms of predicting the eruptive capabilities of volcanoes
+- Contributed to an in-depth exploration of a Robust Gaussian Stochastic Process (RGaSP) model to forecast the potential eruptive capabilities of volcanoes  
 - Utilized R to examine apparent missing data and brainstormed possible sources and solutions in terms of sampling and overall calculations of model assumptions and parameters
 
 **Data Science UCSB**     
@@ -43,10 +49,9 @@ June 2021 - May 2022
 **HG Insights**  
 *Solutions Engineer Intern*  
 July 2022 - September 2022  
-- Complete ~2-3 tickets per day providing insights to companies through data-as-a-service using Microsoft SQL Server  
-- Communicate daily with customer success managers regarding customer insight reports  
-- Attend tri-weekly meetings with customer solutions team  
-- Contribute to transition from Platform v1.0 to v2.0 by communicating differences to engineering team  
+- Delivered 2-3 daily customer solutions reports using Microsoft SQL Server to analyze and transform extensive technographic/firmographic data  
+- Collaborated with the sales and customer success teams to present validations and customized Data-as-a-Service builds for customers  
+- Utilized Python to create individualized Ideal Customer Technology Profiles, which showcased data analysis solutions tailored to each client   
 
 **UCSB Disabled Students Program (DSP)**  
 *Notetaker*  
